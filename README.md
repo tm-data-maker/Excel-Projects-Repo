@@ -80,7 +80,7 @@ This project strengthened skills in:
 ![Pivot Charts Example](название_вашей_картинки_1.png)
 
 ### Data Visualisation
-![Visualization Example](название_вашей_картинки_2.png)
+![Visualization Example](Visualization.png)
 
 ### Retail Sales Analysis
 ![Retail Sales Analysis Example](Retail_Sales_Analysis.png)
