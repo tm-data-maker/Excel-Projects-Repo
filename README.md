@@ -27,6 +27,8 @@ Applied a variety of formulas to analyse and enrich datasets:
 * Applied **sorting** to structure data for analysis
 * Ensured fields were ready for use in PivotTables and formulas
 
+* 
+
 ### 📊 PivotTables & Analysis
 Created multiple PivotTables to understand:
 * Sales volume segmented by **County** and **Product**
@@ -69,3 +71,13 @@ This project strengthened skills in:
 * Applying intermediate/advanced Excel formulas
 * Creating categorisation logic within datasets
 * Using visualisations to support data storytelling
+
+  ---
+
+## 📊 Visualizations & Outputs
+
+### Pivot Table and Pivot Charts
+![Pivot Charts Example](название_вашей_картинки_1.png)
+
+### Data Visualisation
+![Visualization Example](название_вашей_картинки_2.png)
