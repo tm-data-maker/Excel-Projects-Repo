@@ -81,3 +81,6 @@ This project strengthened skills in:
 
 ### Data Visualisation
 ![Visualization Example](название_вашей_картинки_2.png)
+
+### Retail Sales Analysis
+![Retail Sales Analysis Example](Retail Sales Analysis_2.png)
