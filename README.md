@@ -77,7 +77,7 @@ This project strengthened skills in:
 ## 📊 Visualizations & Outputs
 
 ### Pivot Table and Pivot Charts
-![Pivot Charts Example](название_вашей_картинки_1.png)
+![Pivot Charts Example](Pivot_Table_and_Pivot_Charts.png)
 
 ### Data Visualisation
 ![Visualization Example](Visualization.png)
